@@ -8,3 +8,4 @@
 0.0.0.0 rtb.bid.com
 0.0.0.0 csync.copper6.com
 0.0.0.0 wsup.ai
+0.0.0.0 flipped.chat
