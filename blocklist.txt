@@ -1,1 +1,1 @@
-0.0.0.0 futurecdn.net
+0.0.0.0 ad-assets.futurecdn.net
