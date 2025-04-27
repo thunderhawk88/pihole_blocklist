@@ -7,3 +7,4 @@
 0.0.0.0 dsp.360yield.com
 0.0.0.0 rtb.bid.com
 0.0.0.0 csync.copper6.com
+0.0.0.0 wsup.ai
