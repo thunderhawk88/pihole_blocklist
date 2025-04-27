@@ -1,1 +1,9 @@
 0.0.0.0 ad-assets.futurecdn.net
+0.0.0.0 prebid.a-mo.net
+0.0.0.0 mp.4dex.io
+0.0.0.0 audienceexposure.com
+0.0.0.0 cs.openwebmp.com
+0.0.0.0 id.a-mx.com
+0.0.0.0 dsp.360yield.com
+0.0.0.0 rtb.bid.com
+0.0.0.0 csync.copper6.com
