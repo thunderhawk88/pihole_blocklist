@@ -11,3 +11,5 @@
 0.0.0.0 flipped.chat
 0.0.0.0 iher.ai
 0.0.0.0 cdn.pubfuture-ad.com
+0.0.0.0 www.mangaread.org/wp-content/uploads/2025/02/wsup_animated_Ad_04-min.gif
+0.0.0.0 www.mangaread.org/wp-content/*
