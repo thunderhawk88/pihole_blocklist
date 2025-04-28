@@ -10,3 +10,4 @@
 0.0.0.0 wsup.ai
 0.0.0.0 flipped.chat
 0.0.0.0 iher.ai
+0.0.0.0 cdn.pubfuture-ad.com
