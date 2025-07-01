@@ -27,3 +27,5 @@
 0.0.0.0 visitor-risecode.omnitagjs.com
 0.0.0.0 prebid.anyclip.com
 0.0.0.0 api.prebidpublir.com
+0.0.0.0 adxbid.info
+0.0.0.0 static.cdn.admatic.de
