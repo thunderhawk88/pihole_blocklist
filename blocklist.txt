@@ -25,3 +25,5 @@
 0.0.0.0 dsp-service.admatic.de
 0.0.0.0 cs.yellowblue.io
 0.0.0.0 visitor-risecode.omnitagjs.com
+0.0.0.0 prebid.anyclip.com
+0.0.0.0 api.prebidpublir.com
