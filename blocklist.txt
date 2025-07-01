@@ -30,3 +30,4 @@
 0.0.0.0 adxbid.info
 0.0.0.0 static.cdn.admatic.de
 0.0.0.0 488.bc-plugin.com
+0.0.0.0 fstatic.netpub.media
