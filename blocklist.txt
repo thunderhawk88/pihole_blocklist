@@ -32,3 +32,4 @@
 0.0.0.0 488.bc-plugin.com
 0.0.0.0 fstatic.netpub.media
 0.0.0.0 pubadx.one
+0.0.0.0 at.teads.tv
