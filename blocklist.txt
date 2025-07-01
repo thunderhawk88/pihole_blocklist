@@ -17,3 +17,11 @@
 0.0.0.0 prebid.attekmi.com
 0.0.0.0 exchange.cootlogix.com
 0.0.0.0 cpm.fmlabsonline.com
+0.0.0.0 static.cdn.admatic.de
+0.0.0.0 us.ck-ie.com
+0.0.0.0 prebid.admatic.de
+0.0.0.0 ice.360yield.com
+0.0.0.0 sync.a-mo.net
+0.0.0.0 dsp-service.admatic.de
+0.0.0.0 cs.yellowblue.io
+0.0.0.0 visitor-risecode.omnitagjs.com
