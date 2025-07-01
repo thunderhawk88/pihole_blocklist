@@ -34,3 +34,4 @@
 0.0.0.0 pubadx.one
 0.0.0.0 at.teads.tv
 0.0.0.0 admatic.de
+0.0.0.0 pubfuture.us-adx-admixer.rtb-stack.com
