@@ -40,3 +40,7 @@
 0.0.0.0 server.smartytech.io
 0.0.0.0 dsp-service.admatic.com.tr
 0.0.0.0 ittpx.eskimi.com
+0.0.0.0 scarheavity.shop
+0.0.0.0 ghb.console.adtarget.com.tr
+0.0.0.0 su.shortenoverleg.com
+0.0.0.0 topworkredbay.shop
