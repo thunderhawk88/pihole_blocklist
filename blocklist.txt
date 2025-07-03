@@ -44,3 +44,5 @@
 0.0.0.0 ghb.console.adtarget.com.tr
 0.0.0.0 su.shortenoverleg.com
 0.0.0.0 topworkredbay.shop
+0.0.0.0 cpm.fmlabsonline.com
+0.0.0.0 prebid.attekmi.com
