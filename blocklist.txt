@@ -36,3 +36,7 @@
 0.0.0.0 admatic.de
 0.0.0.0 pubfuture.us-adx-admixer.rtb-stack.com
 0.0.0.0 cootlogix.com
+0.0.0.0 prebid.admatic.com.tr
+0.0.0.0 server.smartytech.io
+0.0.0.0 dsp-service.admatic.com.tr
+0.0.0.0 ittpx.eskimi.com
