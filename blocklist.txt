@@ -47,3 +47,4 @@
 0.0.0.0 vidiconmaskers.shop
 0.0.0.0 adskeeper.com
 0.0.0.0 dipppyruiners.top
+0.0.0.0 9gag.com
