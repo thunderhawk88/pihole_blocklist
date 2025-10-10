@@ -48,3 +48,8 @@
 0.0.0.0 adskeeper.com
 0.0.0.0 dipppyruiners.top
 0.0.0.0 9gag.com
+0.0.0.0 adexchangeclear.com
+0.0.0.0 zrlqm.com
+0.0.0.0 usrpubtrk.com
+0.0.0.0 kathe1212.link
+0.0.0.0 onelink.shein.com
