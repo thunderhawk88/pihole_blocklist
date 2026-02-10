@@ -57,7 +57,6 @@
 0.0.0.0 wpad.aps.edu.actd
 0.0.0.0 connect.facebook.net
 0.0.0.0 widgetlogic.org
-0.0.0.0 secure.gravatar.com
 0.0.0.0 stackpath.bootstrapcdn.com
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 p2p-dfw2.discovery.steamserver.net
