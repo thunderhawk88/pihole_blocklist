@@ -60,3 +60,4 @@
 0.0.0.0 stackpath.bootstrapcdn.com
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 p2p-dfw2.discovery.steamserver.net
+0.0.0.0 silverwhitebirds.co
