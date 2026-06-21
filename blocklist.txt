@@ -60,5 +60,8 @@
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 p2p-dfw2.discovery.steamserver.net
 0.0.0.0 silverwhitebirds.co
-0.0.0.0 townistchechia.com
 0.0.0.0 guarriancha.qpon
+0.0.0.0 townistchechia.com
+0.0.0.0 cdnpf.com
+0.0.0.0 bedcordaguilt.cfd
+0.0.0.0 swelpawaitedopaline.qpon
