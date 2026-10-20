@@ -68,3 +68,14 @@
 0.0.0.0 hetteheran.shop
 0.0.0.0 poromacrusted.shop
 0.0.0.0 beyondbaggage.com
+0.0.0.0 toolaris-app.com
+0.0.0.0 doableads.com
+0.0.0.0 re.applovin.com
+0.0.0.0 directyp.org
+0.0.0.0 aisyncad.com
+0.0.0.0 galaxyapp.click
+0.0.0.0 stellarhq.click
+0.0.0.0 doableads.com
+0.0.0.0 wd-ret.io
+0.0.0.0 yutoads.com
+0.0.0.0 recapads.com
