@@ -79,3 +79,19 @@
 0.0.0.0 wd-ret.io
 0.0.0.0 yutoads.com
 0.0.0.0 recapads.com
+0.0.0.0 exogenous.click
+0.0.0.0 galaxyhq.click
+0.0.0.0 adexchangerapid.com
+0.0.0.0 arachnidapp.click
+0.0.0.0 opengalaxy.click
+0.0.0.0 apiguinee.org
+0.0.0.0 biomanos.org
+0.0.0.0 top-toones.com
+0.0.0.0 honeytoon.com
+0.0.0.0 melbet.org
+0.0.0.0 fsqhqgskfadly.site
+0.0.0.0 pocpzsexngocd.website
+0.0.0.0 aarems.org
+0.0.0.0 getarachnid.click
+0.0.0.0 
+0.0.0.0 
